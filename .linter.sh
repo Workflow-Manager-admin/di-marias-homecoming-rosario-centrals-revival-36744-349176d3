@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /home/kavia/workspace/code-generation/di-marias-homecoming-rosario-centrals-revival-36744-349176d3/di_maria_homecoming
-npx run lint
+npm run lint
 ESLINT_EXIT_CODE=$?
 npm run build
 BUILD_EXIT_CODE=$?
