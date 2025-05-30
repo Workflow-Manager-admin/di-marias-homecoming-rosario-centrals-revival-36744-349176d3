@@ -1,7 +1,10 @@
 ---
 theme: seriph
 title: "Ángel Di María's Homecoming: Rosario Central's Revival"
-
+server:
+  host: 0.0.0.0
+  cors:
+    origin: '*'
 info: |
   ## A celebration of Ángel Di María's return to Rosario Central
   Exploring his career, the announcement, impact, and fan excitement.
