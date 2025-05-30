@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --force --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/di-marias-homecoming-rosario-centrals-revival-36744-349176d3/di_maria_homecoming"
+}
